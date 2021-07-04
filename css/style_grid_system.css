@@ -1,0 +1,20 @@
+.product{
+    background-color: burlywood;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.appear{
+    background-color: rgb(192, 192, 206);
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+.warning{
+    color: rgb(163, 23, 30);
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
